@@ -54,6 +54,7 @@ otherslist = [
     "goo.gl",
     "shrto.ml",
     "t.co",
+    "shrinkme.io",  # Add this line
 ]
 
 gdlist = [
